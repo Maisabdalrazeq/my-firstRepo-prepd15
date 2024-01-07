@@ -31,4 +31,3 @@
 
 - third item 
 
-> here is a simple quote 
